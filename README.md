@@ -260,10 +260,8 @@ Takes the embeddings and returns a square matrix of attention weights between al
 ## 14. Author
 
 Rupasivakumar
+
 B.Sc Computer Science with Artificial Intelligence
 
 ---
 
-## License
-
-Add your preferred license here (for example, MIT) or remove this section if not needed.
